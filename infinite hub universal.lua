@@ -4,7 +4,7 @@ local Window = Rayfield:CreateWindow({
 	Name = "Infinite Hub v" .. currentVersion,
 	Icon = 'infinity', -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
 	LoadingTitle = "Infinite Hub",
-	LoadingSubtitle = "Сделали: Moon и 156memories",
+	LoadingSubtitle = "Сделали: Moon и 156bored",
 	Theme = "Default", -- Check https://docs.sirius.menu/rayfield/configuration/themes
  
 	DisableRayfieldPrompts = true,
